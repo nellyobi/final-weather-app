@@ -8,7 +8,7 @@ function App() {
 
 
    <h1> Weather App </h1>
-   <Weather />
+   <Weather defaultCity="Tokyo"/>
     <footer>
       This project was coded by <a href="https://github.com/nellyobi"
       target="_blank"
