@@ -32,25 +32,23 @@
     list-style: none;
 }
 
-.Weather img {
-   height: 60px; 
-   width: 64px;
+.Weather canvas {
+   height: 40px; 
+   width: 44px;
    display: inline-block;
    margin-right: 10px;  
+   margin-top: 5px;
    
 }
 .Weather .temperature {
     color: rgb(32, 33, 36);
-    display: inline;
     font-size: 48px;
     font-weight: 400;
     line-height: 64px;
-    width: auto;
 }
 
 .Weather .unit {
     color: rgb(32, 33, 36);
-    
     font-size: 16px;
     font-weight: 400;
     position: relative;
